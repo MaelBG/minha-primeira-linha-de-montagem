@@ -1,2 +1,1 @@
-# minha-primeira-linha-de-montagem
-Top
+[![Minha Primeira Linha de Montagem](https://github.com/MaelBG/minha-primeira-linha-de-montagem/actions/workflows/linha-de-montagem.yml/badge.svg)](https://github.com/MaelBG/minha-primeira-linha-de-montagem/actions/workflows/linha-de-montagem.yml)
